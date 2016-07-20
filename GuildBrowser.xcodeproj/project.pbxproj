@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0B0BA2D61D3FED15001737A5 /* GuildBrowserLogicTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B0BA2D51D3FED15001737A5 /* GuildBrowserLogicTests.m */; };
 		0B0BA2E31D3FEE9B001737A5 /* CharacterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B0BA2DD1D3FEE9B001737A5 /* CharacterTests.m */; };
 		0B0BA2E41D3FEE9B001737A5 /* GuildBrowserLogicTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B0BA2DE1D3FEE9B001737A5 /* GuildBrowserLogicTests.m */; };
 		0B0BA2E51D3FEE9B001737A5 /* character.json in Resources */ = {isa = PBXBuildFile; fileRef = 0B0BA2E01D3FEE9B001737A5 /* character.json */; };
@@ -572,7 +571,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				0B0BA2E41D3FEE9B001737A5 /* GuildBrowserLogicTests.m in Sources */,
-				0B0BA2D61D3FED15001737A5 /* GuildBrowserLogicTests.m in Sources */,
 				0B0BA2E31D3FEE9B001737A5 /* CharacterTests.m in Sources */,
 				0B0BA2E71D3FEE9B001737A5 /* WowUtilsTests.m in Sources */,
 			);
