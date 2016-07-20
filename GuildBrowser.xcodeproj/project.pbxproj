@@ -225,9 +225,17 @@
 			path = testdata;
 			sourceTree = "<group>";
 		};
+		0B48BE201D3FF8EC002228A0 /* test-reports */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "test-reports";
+			sourceTree = "<group>";
+		};
 		CB9FDC3015E9872D00B3713E = {
 			isa = PBXGroup;
 			children = (
+				0B48BE201D3FF8EC002228A0 /* test-reports */,
 				CB9FDCEC15E9B31400B3713E /* images */,
 				CB9FDCC115E9A8DA00B3713E /* AFNetworking */,
 				CB9FDC4515E9872D00B3713E /* GuildBrowser */,
@@ -842,6 +850,7 @@
 				0B0BA2DC1D3FED15001737A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CB9FDC3515E9872D00B3713E /* Build configuration list for PBXProject "GuildBrowser" */ = {
 			isa = XCConfigurationList;
