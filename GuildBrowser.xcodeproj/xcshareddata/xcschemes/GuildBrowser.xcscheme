@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB9FDC5B15E9872E00B3713E"
-               BuildableName = "GuildBrowserTests.octest"
+               BuildableName = "GuildBrowserTests.xctest"
                BlueprintName = "GuildBrowserTests"
                ReferencedContainer = "container:GuildBrowser.xcodeproj">
             </BuildableReference>
@@ -42,9 +42,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0B91E2F71D3EC4E000477A79"
-               BuildableName = "GuildBrowserTests2.xctest"
-               BlueprintName = "GuildBrowserTests2"
+               BlueprintIdentifier = "0B0BA2D21D3FED15001737A5"
+               BuildableName = "GuildBrowserLogicTests.xctest"
+               BlueprintName = "GuildBrowserLogicTests"
                ReferencedContainer = "container:GuildBrowser.xcodeproj">
             </BuildableReference>
          </TestableReference>
